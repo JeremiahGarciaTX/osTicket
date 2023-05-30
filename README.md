@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation</h1>
-Outlines the installation of the open-source help desk ticketing system osTicket using Microsoft Azure resource group and virtual machine services.<br />
+This project outlines a brief outline of the steps followed of the installation of the open-source help desk ticketing system osTicket using Microsoft Azure resource group and virtual machine services.<br />
 
 <p>
 <img src="https://i.imgur.com/c6UVcvc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
