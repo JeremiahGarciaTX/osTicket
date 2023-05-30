@@ -9,9 +9,25 @@ Outlines the installation of the open-source help desk ticketing system osTicket
 <img src="https://i.imgur.com/c6UVcvc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
+
+Log in to Virtual Machine and install neccesary programs
+<p>
+<img src="https://i.imgur.com/pecG8co.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+Open IIS as an Admin
+Register PHP from within IIS
+
 <p>
 <img src="https://i.imgur.com/UxYZudT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+Finish installation of osTicket and configure admin and osTicket settings
+<p>
+<img src="https://i.imgur.com/Y2HjgA0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 
 
