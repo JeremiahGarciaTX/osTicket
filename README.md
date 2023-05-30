@@ -33,8 +33,20 @@ Finish installation of osTicket and configure admin and osTicket settings
 </p>
 
 
+Login and Verify installation was completed
 
+<p>
+<img src="https://i.imgur.com/QHA13Js.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
 
+<p>
+<img src="https://i.imgur.com/SfnAodG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+Installation Complete!
+<p>
+<img src="https://i.imgur.com/S7o4trf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
