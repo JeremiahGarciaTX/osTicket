@@ -6,7 +6,7 @@
 Outlines the installation of the open-source help desk ticketing system osTicket using Microsoft Azure resource group and virtual machine services.<br />
 
 <p>
-<img src="https://i.imgur.com/aLvA16i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c6UVcvc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
