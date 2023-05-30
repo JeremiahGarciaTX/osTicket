@@ -28,6 +28,9 @@ Finish installation of osTicket and configure admin and osTicket settings
 <img src="https://i.imgur.com/Y2HjgA0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/pi1p9zA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
