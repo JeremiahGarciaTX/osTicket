@@ -23,7 +23,7 @@ Register PHP from within IIS
 </p>
 
 
-Finish installation of osTicket and configure admin and osTicket settings
+Begin installation of osTicket and configure admin and osTicket settings
 <p>
 <img src="https://i.imgur.com/Y2HjgA0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
