@@ -2,8 +2,12 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Installation</h1>
+Outlines the installation of the open-source help desk ticketing system osTicket.<br />
+
+<p>
+<img src="https://i.imgur.com/aLvA16i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 <h2>Video Demonstration</h2>
