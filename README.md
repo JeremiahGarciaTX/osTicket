@@ -9,6 +9,29 @@ Outlines the installation of the open-source help desk ticketing system osTicket
 <img src="https://i.imgur.com/c6UVcvc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/UxYZudT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Environments and Technologies Used</h2>
 
