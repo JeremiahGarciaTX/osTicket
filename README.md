@@ -30,7 +30,7 @@ Begin installation of osTicket and configure admin and osTicket settings
 
 
 
-Create a data base in Heidi for osTicket
+Create a database in Heidi for osTicket
 <p>
 <img src="https://i.imgur.com/GtpqWNE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
