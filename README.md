@@ -15,8 +15,7 @@ Log in to Virtual Machine and install neccesary programs
 <img src="https://i.imgur.com/pecG8co.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
-Open IIS as an Admin
-Register PHP from within IIS
+Open IIS as an Admin and Register PHP from within IIS
 
 <p>
 <img src="https://i.imgur.com/UxYZudT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
