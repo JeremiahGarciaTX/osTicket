@@ -35,7 +35,7 @@ Create a database in Heidi for osTicket
 <img src="https://i.imgur.com/GtpqWNE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
-Input database information in osTicket
+Input database information in osTicket then click install
 
 <p>
 <img src="https://i.imgur.com/Q4MKZiG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
